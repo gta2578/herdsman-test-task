@@ -36,9 +36,11 @@ npm run build — Builds the project for production.
 Project Structure
 src/
 ├── herdsmanGameClasses/
-│   ├── Animal.ts       # Animal behavior logic
-├── main.ts             # Entry point
-├── index.html          # HTML file for the game
+│   ├── Animal.ts   # Animal behavior logic
+│   ├── Game.ts     # Game behavior logic
+├── main.ts         # Entry point
+├── index.html      # HTML file for the game
+
 
 
 Technologies
